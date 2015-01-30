@@ -1,4 +1,6 @@
 ===========================================
+
+[![Join the chat at https://gitter.im/lovesuper/xmenu](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/lovesuper/xmenu?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
  XMenu: Simple way to console menu
 ===========================================
 pre-alpha version 0.0.2
